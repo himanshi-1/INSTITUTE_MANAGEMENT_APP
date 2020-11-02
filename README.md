@@ -2,10 +2,16 @@
 
 # INTRODUCTION
 
-The project “Student Information System” is basically Standalone GUI software for
-back end purpose for Management of Students record. 
+The project is basically Standalone GUI software for back end purpose for Management of Students record using Java Swing Framework. 
 
-•  This application has three modules
+# Hardware & Tools Requirement:-
+        * WINDOWS 10 operating system
+        * i3 processor
+        * 2GB ram
+        * Netbeans
+        * xampp
+
+•  This App has three modules
 1. Student Personal details
 2. Available course details
 3. Student score details
